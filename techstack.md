@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [4ster/tgbot_template_v3](https://github.com/4ster/tgbot_template_v3)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/26/23 <br/>Report generated|
+|15<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -182,8 +182,8 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[environs](https://pypi.org/environs)|N/A|03/31/23|latan |MIT|N/A|
-|[uvicorn](https://pypi.org/uvicorn)|N/A|03/31/23|latan |BSD-3-Clause|N/A|
+|[environs](https://pypi.org/project/environs)|N/A|03/31/23|latan |MIT|N/A|
+|[uvicorn](https://pypi.org/project/uvicorn)|N/A|03/31/23|latan |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
